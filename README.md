@@ -1,4 +1,12 @@
 # censorship-survey
+
+Team Members:
+
+Soledad Li/ Xiaojing Li: https://orcid.org/0000-0002-5244-5955
+
+
+
+
 DOI; 10.5281/zenodo.4167988
 
 Co-authored-by: Manisha <manisha.madhukar@cri-paris.org>
