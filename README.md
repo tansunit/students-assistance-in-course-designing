@@ -1,4 +1,6 @@
 # students-assistance-in-course-designing
+[![DOI](https://zenodo.org/badge/275103714.svg)](https://zenodo.org/badge/latestdoi/275103714)
+
 
 ## Team Members:
 
